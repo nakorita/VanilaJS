@@ -1,0 +1,24 @@
+body{
+    background-color: orange;
+}
+
+.button{
+    cursor: pointer;
+}
+
+body{
+    color: rgb(233, 22, 22);
+}
+
+.clicked{
+    color: violet;
+}
+
+.form,
+.greetings{
+    display: none;
+}
+
+.showing {
+    display: block;
+}
